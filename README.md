@@ -2,15 +2,6 @@
 
 Welcome to Cube Saber Game, an engaging and interactive game inspired by the popular Fruit Ninja. In this game, instead of slicing fruits, you'll be slicing through colorful cubes. It's a fun way to test your reflexes and enjoy a visually stimulating gaming experience.
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 - **Interactive Gameplay:** Slice through cubes by swiping across the screen.
 - **Colorful Graphics:** Enjoy a vibrant and visually appealing game environment.
@@ -21,5 +12,11 @@ Welcome to Cube Saber Game, an engaging and interactive game inspired by the pop
 - **HTML:** For structuring the game interface.
 - **CSS:** For styling and making the game visually appealing.
 - **JavaScript:** The core logic of the game, handling user interactions, game mechanics, and animations.
+
+## Sample
+
+
+<img width="629" alt="Cs" src="https://github.com/Chakilamsrikanth/Cube-Saber-Game/assets/147283839/77169b82-f54e-4d31-9e8e-8f4074c502b8">
+
 
 ## Try it out here: 
