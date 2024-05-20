@@ -19,4 +19,6 @@ Welcome to Cube Saber Game, an engaging and interactive game inspired by the pop
 <img width="629" alt="Cs" src="https://github.com/Chakilamsrikanth/Cube-Saber-Game/assets/147283839/77169b82-f54e-4d31-9e8e-8f4074c502b8">
 
 
-## Try it out here: 
+## Try it out here
+
+https://chakilamsrikanth.github.io/Cube-Saber-Game/
